@@ -1,0 +1,8 @@
+[
+		{"marque":"Renault", "couleur":"verte", "id":0},
+		{"marque":"Citroen", "couleur":"grise", "id":1},
+		{"marque":"Opel", "couleur":"or", "id":2},
+		{"marque":"Ferrari", "couleur":"rouge", "id":3},
+		{"marque":"Peugeot", "couleur":"bleu", "id":4},
+		{"marque":"Nissan", "couleur":"verte", "id":5}
+]
