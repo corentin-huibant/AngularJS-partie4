@@ -1,6 +1,7 @@
 <h1>Exercice 4</h1>
 <!-- directive repeat pour répeter les informations dans une succession de div similaire -->
-    <div ng-repeat="car in cars | filter:{couleur:'!verte'}">
+<!-- Plus logique si on a plusieurs tableaux avec voiture.couleur:'!verte' sans les accolades. -->
+    <div ng-repeat="car in cars | filter:{couleur:'!verte'}"> 
         <h2>Voiture</h2>
         <!-- affiche la marque de la variable cars qui a récupéré les informations du tableau-->
         <p>{{car.marque}}</p>
